@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.4
+  http: ^1.1.0
   html: ^0.15.0
-  xml2json: ^5.3.3
+  xml2json: ^6.2.0
   collection: ^1.16.0
 
 dev_dependencies:
